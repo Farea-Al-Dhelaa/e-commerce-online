@@ -68,7 +68,6 @@ The app is built using **Material Design**, providing a modern, responsive, and 
 ## 📷 **Screenshots**
 
 Here are some screenshots of the app's user interface:
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <div style="margin: 10px; text-align: center; width: 30%;">
@@ -102,6 +101,7 @@ Here are some screenshots of the app's user interface:
   </div>
 
 </div>
+
 
 ---
 
