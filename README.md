@@ -31,7 +31,7 @@ Welcome to **E-commerce Online**, a Flutter-based application designed for a sea
 
 - **Frontend**: Flutter & Dart
 - **Backend**: Firebase (Authentication & API)
-- **State Management**: Provider (or any other state management solution like Riverpod/Bloc as per project preference)
+- **State Management**: Provider 
 
 ---
 
@@ -52,7 +52,6 @@ The app theme is based on **Material Design** with adaptive colors for different
 
 | Home Screen | Product Page | Cart |
 |-------------|--------------|------|
-| ![Home Screen](link_to_home_screen_image) | ![Product Page](link_to_product_page_image) | ![Cart](link_to_cart_image) |
 
 ---
 
@@ -61,8 +60,8 @@ The app theme is based on **Material Design** with adaptive colors for different
 ### Prerequisites
 
 Ensure the following are installed on your system:
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (v3.x or higher)
-- [Dart SDK](https://dart.dev/get-dart)
+- [Flutter SDK](https://dart.dev/get-dart/archive) (v3.x or higher)
+- [Dart SDK](https://dart.dev/get-dart/archive)
 - Firebase account for backend services
 
 ### Installation
