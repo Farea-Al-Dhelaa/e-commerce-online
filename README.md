@@ -131,7 +131,7 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/yourusername/ecommerce_online.git
 # 📞 Contact
-GitHub: @Farea-Al-Dhelaa
-Email: farea.dev@example.com
+<br>GitHub: @Farea-Al-Dhelaa</br>
+Email: faraa717281413@gmail.com
 
 نسخ الكود
