@@ -105,7 +105,6 @@ Here are some screenshots of the app's user interface:
   </div>
 </p>
 
-
 ---
 
 ### 📱 **App Features in Screenshots**
