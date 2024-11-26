@@ -73,18 +73,14 @@ The app is built using **Material Design**, providing a modern, responsive, and 
   <div style="margin: 10px; text-align: center; width: 50%;">
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg" width="300"/>
         <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/login.jpg" width="300" />
-    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg" width="300" />
-    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg" width ="300"/>
-    
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg" width="300" />    
 </div>
-
  <div style="margin: 10px; text-align: center; width: 50%;">
+       <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg" width ="300"/>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg" width="200" />
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
-
  </div>
-  
 </p>
 رتبه فقط
 ---
