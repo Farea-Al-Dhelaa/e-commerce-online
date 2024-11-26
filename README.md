@@ -91,10 +91,9 @@ The app is built using **Material Design**, providing a modern, responsive, and 
   <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Sign Up Screen</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg" width="200" />
-  </div>
-
-  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Login Screen</h4>
+  </div>
+  <div>
         <h4>Forgot Password Screen</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/login.jpg" width="200" />
