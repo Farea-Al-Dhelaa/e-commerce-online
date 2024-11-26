@@ -75,6 +75,9 @@ The app is built using **Material Design**, providing a modern, responsive, and 
         <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/login.jpg" width="300" />
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg" width="300" />    
 </div>
+  ---
+---
+
  <div style="margin: 10px; text-align: center; width: 50%;">
        <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg" width ="300"/>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg" width="300" />
