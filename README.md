@@ -77,6 +77,7 @@ Here are some screenshots of the app's user interface:
 
   <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Home Screen</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg">
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg" width="200" />
   </div>
 
