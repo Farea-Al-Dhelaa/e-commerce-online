@@ -65,26 +65,16 @@ The colors and theme are applied consistently across the app:
 
 ## 📷 **Screenshots**
 
-Check out the app's user interface through these screenshots:
+| Home Screen | Product Page | Cart |
+|[-------------](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg)|--------------|------|
+https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg
+https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg
+https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg
+https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg
 
-## 📷 **Screenshots**
+https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg
 
-Here are the screenshots of the app's user interface:
-
-### Home Screen
-![Home Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg)
-
-### Product Page
-![Product Page](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg)
-
-### Cart
-![Cart](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg)
-
-### Sign Up Screen
-![Sign Up](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg)
-
-### Forgot Password Screen
-![Forgot Password](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg)
+---
 
 ---
 
