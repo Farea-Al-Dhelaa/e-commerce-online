@@ -81,9 +81,7 @@ The app is built using **Material Design**, providing a modern, responsive, and 
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="300" />
  </div>
 </p>
-رتبه فقط
 ---
-
 ### 📱 **App Features in Screenshots**
 
 - **Home Screen**: Displays the landing page with the app's main features and products.
