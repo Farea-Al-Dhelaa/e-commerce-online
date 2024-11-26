@@ -84,12 +84,9 @@ Here are some screenshots of the app's user interface:
 
   <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Product Page</h4>
-    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg" width="200" />
-  </div>
-
-  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Cart</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg" width="200" />
   </div>
 
   <div style="margin: 10px; text-align: center; width: 30%;">
