@@ -65,10 +65,27 @@ The colors and theme are applied consistently across the app:
 
 ## 📷 **Screenshots**
 
-| Home Screen | Product Page | Cart |
-|-------------|--------------|------|
+Check out the app's user interface through these screenshots:
+
+| Home Screen                                                                 | Product Page                                                               | Cart                                                                       |
+|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| ![Home Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg) | ![Product Page](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg) | ![Cart](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg) |
+
+| Sign Up Screen                                                              | Forgot Password Screen                                                      |
+|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| ![Sign Up](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg) | ![Forgot Password](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg) |
 
 ---
+
+### 📱 **App Features in Screenshots**
+
+- **Home Screen**: Displays the landing page with the app's main features and products.
+- **Product Page**: Detailed information about the products, including images and descriptions.
+- **Cart**: View items in the shopping cart and proceed with the checkout process.
+- **Sign Up Screen**: User registration page for creating an account.
+- **Forgot Password Screen**: Allows users to reset their password if they’ve forgotten it.
+
+
 
 ## 🚀 **Getting Started**
 
