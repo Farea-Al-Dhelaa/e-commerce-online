@@ -76,11 +76,10 @@ Here are some screenshots of the app's user interface:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <div style="margin: 10px; text-align: center; width: 50%;">
-
      <h4>Splash Screen</h4>
-    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg" width="300" />
-    <h4>Home Screen</h4>
-    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg" width ="300">
+     <h4>Home Screen</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg" width="300"/>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg" width ="300"/>
   </div>
 
   <div style="margin: 10px; text-align: center; width: 30%;">
