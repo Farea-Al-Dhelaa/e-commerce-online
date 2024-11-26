@@ -1,13 +1,65 @@
-gradle-wrapper.jar
-/.gradle
-/captures/
-/gradlew
-/gradlew.bat
-/local.properties
-GeneratedPluginRegistrant.java
+# Flutter/Dart-specific files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
 
-# Remember to never publicly share your keystore.
-# See https://flutter.dev/docs/deployment/android#reference-the-keystore-from-the-app
-key.properties
+# Build output
+build/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Linux
+*.so
+
+# Windows
+*.exe
+*.dll
+
+# Android
+/local.properties
 **/*.keystore
 **/*.jks
+android/.gradle/
+android/captures/
+android/key.properties
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/.generated/
+ios/Pods/
+ios/.symlinks/
+
+# Web
+web/.dart_tool/
+
+# Reference to the Keystore
+**/key.properties
+GeneratedPluginRegistrant.java
+
+# Others
+*.log
+*.lock
+*.tmp
+*.bak
+
+# Exclude user-specific files
+*.user
+*.swp
+*.swo
