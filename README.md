@@ -37,16 +37,30 @@ Welcome to **E-commerce Online**, a Flutter-based application designed for a sea
 
 ## 🎨 **Theme & Colors**
 
-The app uses a consistent color palette and theme throughout the interface to create a modern and attractive UI:
+This app features a sleek and modern design that ensures a consistent and appealing user interface. The color palette has been carefully selected to provide a harmonious and engaging user experience.
 
+### **Color Palette**
+- **Primary Color**: `Red`  
+  `kprimaryColor = Color.fromARGB(255, 255, 0, 0);`
+  
+- **Content Color**: `White`  
+  `kcontentColor = Color.fromARGB(255, 255, 255, 255);`
 
- kprimaryColor = Color.fromARGB(255, 255, 0, 0);
- kcontentColor = Color.fromARGB(255, 255, 255, 255);
- kbuttonColor = Color.fromARGB(255, 28, 57, 65);
- kTextColor = Color.fromARGB(181, 65, 231, 51);
+- **Button Color**: `Dark Blue`  
+  `kbuttonColor = Color.fromARGB(255, 28, 57, 65);`
 
-The app theme is based on **Material Design** with adaptive colors for different sections of the app.
+- **Text Color**: `Bright Green`  
+  `kTextColor = Color.fromARGB(181, 65, 231, 51);`
 
+### **App Theme**
+The app is built using **Material Design**, providing a modern, responsive, and consistent look across different sections. It ensures a smooth, seamless experience while adapting to the design principles and colors of the platform.
+
+### **Theme Usage**
+The colors and theme are applied consistently across the app:
+- **Primary Color**: Used for key UI elements like buttons and highlights.
+- **Content Color**: Ensures readability and clarity with a clean background.
+- **Button Color**: Used for actionable buttons, ensuring they stand out.
+- **Text Color**: For headings, body text, and important content.
 ---
 
 ## 📷 **Screenshots**
