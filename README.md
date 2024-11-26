@@ -62,23 +62,41 @@ The colors and theme are applied consistently across the app:
 - **Button Color**: Used for actionable buttons, ensuring they stand out.
 - **Text Color**: For headings, body text, and important content.
 ---
-
 ## 📷 **Screenshots**
 
-| Home Screen | Product Page | Cart |
-|[-------------](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg)|--------------|------|
-https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg
-https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg
-https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg
-https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg
+Here are the screenshots of the app's user interface:
 
-https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+  <div style="margin: 10px; text-align: center;">
+    <h4>Home Screen</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg" width="200" />
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h4>Product Page</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg" width="200" />
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h4>Cart</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h4>Sign Up Screen</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg" width="200" />
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h4>Forgot Password Screen</h4>
+    <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
+  </div>
+
+</div>
 
 ---
 
----
-
----
 
 ### 📱 **App Features in Screenshots**
 
