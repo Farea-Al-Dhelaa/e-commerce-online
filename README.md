@@ -69,34 +69,34 @@ The app is built using **Material Design**, providing a modern, responsive, and 
 
 Here are some screenshots of the app's user interface:
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Home Screen</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg" width="200" />
   </div>
 
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Product Page</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg" width="200" />
   </div>
 
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Cart</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
   </div>
 
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Sign Up Screen</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg" width="200" />
   </div>
-  
-  <div style="margin: 10px; text-align: center;">
+
+  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Login Screen</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/login.jpg" width="200" />
   </div>
 
-  <div style="margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center; width: 30%;">
     <h4>Forgot Password Screen</h4>
     <img src="https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg" width="200" />
   </div>
