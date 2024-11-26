@@ -69,6 +69,44 @@ The app is built using **Material Design**, providing a modern, responsive, and 
 
 
 Here are some screenshots of the app's user interface:
+![Splash Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg)
+![Home Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg)
+<p align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+
+    <!-- First Column -->
+    <div style="margin: 10px; text-align: center; width: 45%;">
+      <h4>Splash Screen</h4>
+      <h4>Home Screen</h4>
+      ![Splash Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/splash.jpg)
+      ![Home Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/home.jpg)
+    </div>
+
+    <!-- Second Column -->
+    <div style="margin: 10px; text-align: center; width: 30%;">
+      <h4>Product Page</h4>
+      <h4>Cart</h4>
+      ![Product Page](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg)
+      ![Cart](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/details.jpg)
+    </div>
+
+    <!-- Third Column -->
+    <div style="margin: 10px; text-align: center; width: 30%;">
+      <h4>Sign Up Screen</h4>
+      ![Sign Up Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/signup.jpg)
+    </div>
+
+    <!-- Fourth Column -->
+    <div style="margin: 10px; text-align: center; width: 30%;">
+      <h4>Login Screen</h4>
+      <h4>Forgot Password Screen</h4>
+      ![Forgot Password Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/forget%20password.jpg)
+      ![Login Screen](https://github.com/Farea-Al-Dhelaa/e-commerce-online/blob/main/assets/screen%20shoot/login.jpg)
+    </div>
+
+  </div>
+</p>
+
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
